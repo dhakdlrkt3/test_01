@@ -1,7 +1,5 @@
 <html>
 	<body>
-		<header>
-			지옥에서 온 깃
-		</header>
+		지옥에서 온 깃
 	</body>
 </html>
